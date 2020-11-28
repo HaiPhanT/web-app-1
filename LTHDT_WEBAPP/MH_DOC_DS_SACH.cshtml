@@ -1,0 +1,38 @@
+﻿@using Entity;
+@using BusinessServices;
+@{
+    string totalMessage = string.Empty;
+    var xlSach = new XL_SACH();
+    var dsSach = xlSach.LayDanhSach();
+}
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <div>
+        <form action="~/MH_DOC_PHANSO.cshtml" method="post">
+            <p><input type="submit" value=" DOC " /></p>
+        </form>
+    </div>
+    <div>
+        <table style="width:100%">
+            <tr>
+                <th>Ma Sach</th>
+                <th>Ten Sach</th>
+                <th>Gia</th>
+            </tr>
+            @foreach (SACH s in dsSach)
+            {
+             <tr>
+                <td>@s.MaSach</td>
+                <td>@s.TenSach</td>
+                <td>@s.Gia</td>
+             </tr>
+            }
+        </table>
+        
+    </div>
+</body>
+</html>
+    

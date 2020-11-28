@@ -1,0 +1,46 @@
+﻿@using Entity;
+@using BusinessServices;
+@{
+    string totalMessage = string.Empty;
+    if (IsPost)
+    {
+
+        int x = int.Parse(Request["x"]);
+        int y = int.Parse(Request["y"]);
+
+        var xlDIEM = new XL_DIEM();
+        var kq = xlDIEM.Ghi(x, y);
+
+        if (kq == true)
+        {
+            totalMessage = "Luu thanh cong";
+        }
+        else
+        {
+            totalMessage = "Luu that bai";
+        }
+    }
+}
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <div>
+        <form action="~/MH_GHI_DIEM.cshtml" method="post">
+            <p>
+                <label for="text1">X:</label><br>
+                <input type="text" name="x" value="" />
+            </p>
+            <p>
+                <label for="text2">Y:</label><br>
+                <input type="text" name="y" value="" />
+            </p>
+            
+            <p><input type="submit" value=" GHI " /></p>
+        </form>
+        Ket qua la @totalMessage
+    </div>
+</body>
+</html>
+    

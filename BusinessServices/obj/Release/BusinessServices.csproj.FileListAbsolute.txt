@@ -1,0 +1,11 @@
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\bin\Release\BusinessServices.dll
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\bin\Release\BusinessServices.pdb
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\bin\Release\DAL.dll
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\bin\Release\Entity.dll
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\bin\Release\DAL.pdb
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\bin\Release\Entity.pdb
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\obj\Release\BusinessServices.csprojAssemblyReference.cache
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\obj\Release\BusinessServices.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\obj\Release\BusinessServices.csproj.CopyComplete
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\obj\Release\BusinessServices.dll
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\BusinessServices\obj\Release\BusinessServices.pdb

@@ -1,0 +1,9 @@
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\bin\Debug\DAL.dll
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\bin\Debug\DAL.pdb
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\bin\Debug\Entity.dll
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\bin\Debug\Entity.pdb
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\obj\Debug\DAL.dll
+C:\Users\Tuan Pham\source\repos\LTHDT_WEBAPP\DAL\obj\Debug\DAL.pdb
